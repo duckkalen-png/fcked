@@ -1,5 +1,9 @@
 # Gimbal CAD downloads
 
+## Complete assembly — latest concept revision
+
+**[Download the completed 31-part gimbal assembly ZIP](Complete_Gimbal_Assembly_DOWNLOAD.zip)**. It contains the positioned AP214 STEP assembly, all separate STEP parts, a FreeCAD review file, previews, source and [joint alignment notes](COMPLETE_ASSEMBLY_README.md). [Preview the full assembly](Complete_Gimbal_Isometric_Preview.png). This revision adds fitted altitude bearings, telescope trunnion flanges and spacers, matching nominal camera/derotator interface patterns, a fitted altitude motor plate, and seated cable clips. Open the STEP as an assembly in Solid Edge and save it as `.asm` for a native Solid Edge file.
+
 ## Base with aligned fork arms and gussets
 
 **[Download the 15-part base and fork assembly ZIP](Fork_Base_Assembly_DOWNLOAD.zip)**. It includes a positioned STEP assembly, all 15 separate STEP parts, a FreeCAD review file, a BOM, and [assembly notes](FORK_BASE_README.md). [Preview the fitted forks and gussets](Fork_Base_Preview.png). The fork feet and two gussets sit on the rotating deck, the four fork foot holes align with the deck, and the two altitude bores share one horizontal axis. Open the STEP as an assembly in Solid Edge and save it as `.asm` for a native Solid Edge file.
