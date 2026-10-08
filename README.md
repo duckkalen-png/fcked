@@ -1,5 +1,9 @@
 # Gimbal CAD downloads
 
+## Base with aligned fork arms and gussets
+
+**[Download the 15-part base and fork assembly ZIP](Fork_Base_Assembly_DOWNLOAD.zip)**. It includes a positioned STEP assembly, all 15 separate STEP parts, a FreeCAD review file, a BOM, and [assembly notes](FORK_BASE_README.md). [Preview the fitted forks and gussets](Fork_Base_Preview.png). The fork feet and two gussets sit on the rotating deck, the four fork foot holes align with the deck, and the two altitude bores share one horizontal axis. Open the STEP as an assembly in Solid Edge and save it as `.asm` for a native Solid Edge file.
+
 ## Start with the base and azimuth drive
 
 **[Download the assembled base as a ZIP](Gimbal_Base_Assembly_DOWNLOAD.zip)**. Extract `Base_Subassembly.step`; it contains eleven positioned components in a named AP214 assembly hierarchy. Open it in Solid Edge using its STEP assembly import option, then save the imported assembly as a Solid Edge `.asm` file. Solid Edge's native assembly extension is `.asm` (not `.assm`). A native Solid Edge file cannot be generated in this Linux workspace. For a FreeCAD review copy, download [Base_Subassembly.FCStd](Base_Subassembly.FCStd).
